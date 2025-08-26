@@ -3,9 +3,9 @@
 
 
 ## 🚀 About Me
-- 🎓 Second-year Electronics and Communication Engineering (ECE) student.
-- 💡 Passionate about Artificial Intelligence, Machine Learning, and cutting-edge technologies.
-- 💻 Skilled in C, C++, Python, and web development frameworks.
+- 🎓 Pre-final-year Electronics and Communication Engineering (ECE) student.
+- 💡 Passionate about Robotics ,Artificial Intelligence, Machine Learning, and cutting-edge technologies.
+- 💻 Skilled in C, C++, Python,Sql and web development frameworks.
 - 🏆 Experienced in organizing college events, leadership roles, and marketing.
 - 📊 Enthusiastic about Data Analytics, Deep Learning, and Data Visualization.
 - 🔍 Always eager to explore new challenges and collaborate on innovative projects.
@@ -14,7 +14,8 @@
 - ✅ C++  
 - ✅ Python  
 - ✅ HTML, CSS  
-- ✅ Django, Flask  
+- ✅ Django, Flask 
+- ✅ SQL
 
 ### **🔹 AI & Data Science**
 - ✅ Machine Learning  
