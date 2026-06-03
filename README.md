@@ -36,8 +36,9 @@
 
 ## 🌱 Learning Goals
 - Master **Data Science & AI frameworks**  
-- Enhance **Web Development** skills  
-- Contribute to **open-source projects**  
+- Operating Systems
+- Cloud and Infra
+- Computer Networks
 
 ## 📫 Let's Connect!
 
